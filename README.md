@@ -1,4 +1,4 @@
-# Diabetes Prediction Project
+# Diabetes Prediction Project(uni)
 
 A machine learning project that uses logistic regression to predict diabetes risk based on patient health metrics.
 
